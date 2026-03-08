@@ -96,5 +96,20 @@ A decisão da moderação visa manter a qualidade do ambiente.
 
 
 
+:warning: Penalidades
+
+1ª infração → Advertência
+2ª infração → Mute temporário
+3ª infração → Banimento do servidor
+
+Casos graves podem resultar em banimento imediato.
+
+:mortar_board: Princípio do servidor
+
+Quem entra aqui deve sair sabendo mais do que quando entrou.
+
+Se sua presença não contribui para aprendizado, você está no lugar errado.
+
+
 
 
